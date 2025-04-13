@@ -1,0 +1,2 @@
+"Hello, this is a test code file for practicing git commands"
+Adding a new line here. 
